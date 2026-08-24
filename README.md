@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm [Your Name]
 
-<!--
-**I355I/I355I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning to code with a focus on backend development. Currently working through a Python course on [Stepik](https://stepik.org/course/100707/syllabus).
 
-Here are some ideas to get you started:
+## 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 **Python** — core syntax and fundamentals
+- 🔧 **Git** — repositories, commits, branching basics
+- 🐘 **PostgreSQL** — database design and queries
+- 🌐 **HTML** — page structure and markup
+
+## 🚀 Projects
+
+> Building out my portfolio — projects will be listed here soon.
+
+## 📚 Currently Learning
+- Python
+- Git workflows
+
+## 📫 Get in Touch
+
+- Email: [maraklanworkedout@gmail.com]
+- LinkedIn: [[link](https://www.linkedin.com/in/kirill-nikitin-8b5a6a430/)]
+- Teleram [@use355]
+---
+
+⭐ Open to small projects and collaborations to apply and grow my Python and PostgreSQL skills.
