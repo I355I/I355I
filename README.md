@@ -12,6 +12,9 @@ Learning to code with a focus on backend development. Currently working through 
 ## 🚀 Projects
 
 > Building out my portfolio — projects will be listed here soon.
+>
+>
+> https://github.com/I355I/password-generator very small and simple project
 
 
 ## 📚 Currently Learning
