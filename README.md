@@ -1,6 +1,6 @@
-# Hi 👋 I'm [Your Name]
+# Hi 👋 I'm Kirill
 
-Learning to code with a focus on backend development. Currently working through a Python course on [Stepik](https://stepik.org/course/100707/syllabus).
+Learning to code with a focus on backend development. Currently working through a Python.
 
 ## 💻 Skills
 
