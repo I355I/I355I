@@ -26,7 +26,6 @@ Learning to code with a focus on backend development. Currently working through 
 
 - Email: [maraklanworkedout@gmail.com](mailto:maraklanworkedout@gmail.com)
 - LinkedIn: [kirill-nikitin-8b5a6a430](https://www.linkedin.com/in/kirill-nikitin-8b5a6a430/)
-- Telegram: [@use355](https://t.me/use355)
 
 ---
 
